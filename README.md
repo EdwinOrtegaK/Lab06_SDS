@@ -12,5 +12,3 @@ del resultado.
 El curso fue completado al 100%. La captura de pantalla se encuentra en:
 
 `screenshot/curso_completado.png`
-
-![Curso Completado](screenshot/curso_completado.png)
